@@ -76,7 +76,7 @@ def main():
   expart_a = Rational(4,2)
   expart_b = Rational(2,1)
   smart_alec_answer = " 1+√(5)\n--------\n   2"
-  print(g_rat(100))
+  print(g_rat(150))
 if __name__ == "__main__":
   main()
 #print(Modern breeds of domesticated dogs (Canis familiaris) are renowned for the extent of trait variation with each other. Their diversity of phenotypes through many visually observable attributes, the arguably most prominent ones relating to their coats. This experiment will specifically focus on the phenotypes relating to the texture of the coat, alongside the development of longer, pronounced mustaches and eyebrows. Previous genetic studies have identified variations in the RSPO2 gene that determines this coat quality in medium and long-haired domesticated dogs. The study of this genetic variation would give us insight into the genetics that shaped dog breeds through the history of breeding and assist in predicting characteristics of dogs born from future selective breeding.) <- very necessary
